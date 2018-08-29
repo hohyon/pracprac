@@ -1,0 +1,1 @@
+include ':app', ':alertdialog', ':alertdialog2', ':alertdialog2review', ':activitytest', ':activitytest02', ':listviewtest', ':recyclerviewtest', ':amuge'
